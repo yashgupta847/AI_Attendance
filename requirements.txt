@@ -1,0 +1,19 @@
+
+streamlit
+# Utilities
+
+
+
+numpy
+pandas
+scikit-learn 
+dlib-bin #(Face rectangle recognisition , structure)
+git+https://github.com/ageitgey/face_recognition_models #detect vector points(eyes , nose , ears and all) -> Not a python version
+setuptools<70.0.0  #Convert github versions to required versions
+supabase
+bcrypt #hashing method
+segno  #QR CODE GENERATION
+pillow  #image preprocessing , import and all operations on image
+
+librosa
+resemblyzer
