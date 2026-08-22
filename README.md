@@ -67,7 +67,7 @@ Instead of relying on traditional roll calls or manual attendance, SnapAI Class 
                           ▼
                  ┌──────────────────┐
                  │    Attendance    │
-                 │     System      │
+                 │     System       │
                  └────────┬─────────┘
                           │
                           ▼
@@ -107,24 +107,6 @@ Instead of relying on traditional roll calls or manual attendance, SnapAI Class 
 
 * Streamlit Cloud
 * Vercel
-
-## 📁 Project Structure
-
-=AI_Attendance/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-│
-├── src/
-│   ├── components/
-│   ├── database/
-│   ├── pipelines/
-│   │   ├── face_pipeline.py
-│   │   └── voice_pipeline.py
-│   │── screens
-│   └── ui/
-│
 
 
 ## ⚙️ Installation
